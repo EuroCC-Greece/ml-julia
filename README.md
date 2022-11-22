@@ -11,4 +11,4 @@ In this codelab you will go through the following steps
 
 ## How to start the tutorial
 
-Just tap on the [codelab file](../main/Machine_Learning_for_Structured_Datasets_with_MIT’s_Julia_Language.ipynb).
+Just tap on the [colab file](../main/Machine_Learning_for_Structured_Datasets_with_MIT’s_Julia_Language.ipynb). You can either download it or tap the "Open in Colab" button at the top.
